@@ -1,1 +1,4 @@
-Console.WriteLine("ali hamza ,roll no 24/st/44");
+int x = 10 ;
+int y = 20 ;
+int c = x+y;
+Console.WriteLine(c+"addtion");
