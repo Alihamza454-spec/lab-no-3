@@ -1,1 +1,25 @@
-Console.WriteLine("ali hamza ,roll no 24-sT-44");
+ subtraction
+
+ division
+double x =10 ;
+double y = 43 ;
+double c = x\y ;
+Console.writeLine(c);
+=======
+int x =2;
+int y = 4;
+int c =x*y ;
+Console.WriteLine("multipaction"+c);
+multipaction
+=======
+int x =20 ;
+int y  =10 ;
+int c= x-y ;
+Console.writeLine("subtraction"+c);
+ subtraction
+=======
+int x = 10 ;
+int y = 20 ;
+int c = x+y;
+Console.WriteLine(c+"addtion");
+ addition
