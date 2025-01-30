@@ -1,4 +1,11 @@
+ division
 double x =10 ;
 double y = 43 ;
 double c = x\y ;
 Console.writeLine(c);
+=======
+int x =2;
+int y = 4;
+int c =x*y ;
+Console.WriteLine("multipaction"+c);
+multipaction
