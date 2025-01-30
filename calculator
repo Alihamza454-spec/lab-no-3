@@ -1,1 +1,4 @@
-Console.WriteLine("ali hamza ,roll no 24-sT-44");
+double x =10 ;
+double y = 43 ;
+double c = x\y ;
+Console.writeLine(c);
