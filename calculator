@@ -1,1 +1,4 @@
-Console.WriteLine("ali hamza ,roll no 24-sT-44");
+int x =20 ;
+int y  =10 ;
+int c= x-y ;
+Console.writeLine("subtraction"+c);
