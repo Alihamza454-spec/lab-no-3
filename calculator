@@ -1,3 +1,4 @@
+ subtraction
 
  division
 double x =10 ;
@@ -16,3 +17,9 @@ int y  =10 ;
 int c= x-y ;
 Console.writeLine("subtraction"+c);
  subtraction
+=======
+int x = 10 ;
+int y = 20 ;
+int c = x+y;
+Console.WriteLine(c+"addtion");
+ addition
