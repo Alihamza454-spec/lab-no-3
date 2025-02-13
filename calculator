@@ -23,3 +23,10 @@ int y = 20 ;
 int c = x+y;
 Console.WriteLine(c+"addtion");
  addition
+Factorial 
+ Console.Write("Enter a number to calculate its factorial: ");
+        int number = int.Parse(Console.ReadLine());
+        
+        long factorial = Factorial(number);
+        Console.WriteLine($"Factorial of {number} is {factorial}");
+
